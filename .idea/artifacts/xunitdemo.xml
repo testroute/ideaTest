@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xunitdemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/xunitdemo</output-path>
+    <root id="archive" name="xunitdemo.jar">
+      <element id="module-output" name="XunitDemo" />
+    </root>
+  </artifact>
+</component>

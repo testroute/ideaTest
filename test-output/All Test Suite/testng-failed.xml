@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="/Users/qitmac000442/Project/projects/xunit/testng/XunitDemo(failed)">
+    <classes>
+      <class name="TestXunit.ShoppingTest">
+        <methods>
+          <include name="testGetPrice" invocation-numbers="1"/>
+          <include name="beforeMethod"/>
+          <include name="AfterMethod"/>
+        </methods>
+      </class> <!-- TestXunit.ShoppingTest -->
+    </classes>
+  </test> <!-- /Users/qitmac000442/Project/projects/xunit/testng/XunitDemo(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
